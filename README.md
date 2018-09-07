@@ -8,7 +8,7 @@ The memory is so composed:
 * address  4:                                 the threshold with which compare next bits.
 * adresses 5 to (4 + witdth) * (4 + height):  the actual bits of the image.
 
-Once the memory gets completely read, the output must find solely the bits with overcome the threshold filter, find the outer edges and calculate the area of that region.
+Once the memory gets completely read, the output must find solely the bits which overcome the threshold filter, find the outer edges and calculate the area of that region.
 
 ## Proposed algorithm 
 
