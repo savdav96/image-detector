@@ -1,0 +1,5 @@
+Vivado Simulator 2018.2
+Time resolution is 1 ps
+Failure: Simulation Ended!, test passed
+Time: 314600 ps  Iteration: 1  Process: /project_tb/test  File: C:/Users/savo9/Downloads/TopRight.vhd
+$finish called at time : 314600 ps : File "C:/Users/savo9/Downloads/TopRight.vhd" Line 117
